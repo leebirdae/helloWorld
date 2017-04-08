@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">helloWorld</string>
+    <string name="first_title">Hello World</string>
     <string name="hello_world"> Hello world! Welcome to my app!</string>
-    <string name="title_activity_second">secondActivity</string>
+    <string name="title_activity_second">Second Activity</string>
     <string name="Page_two">Hello, welcome to the second page</string>
+    <string name="snack">"You got pawed"</string>
+    <string name="button_text">PRESS ME!!!!!!</string>
 </resources>
