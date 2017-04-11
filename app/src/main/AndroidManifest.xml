@@ -12,15 +12,21 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".secondActivity"
             android:label="@string/title_activity_second"
-            android:theme="@style/AppTheme.NoActionBar"
-            android:parentActivityName="com.example.hw.helloworld.MainActivity">
-
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".activity3"
+            android:label="@string/title_activity_three"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
         </activity>
     </application>
 

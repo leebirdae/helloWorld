@@ -6,4 +6,7 @@
     <string name="Page_two">Hello, welcome to the second page</string>
     <string name="snack">"You got pawed"</string>
     <string name="button_text">PRESS ME!!!!!!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_three">Third Page</string>
 </resources>
